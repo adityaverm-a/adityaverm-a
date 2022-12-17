@@ -1,4 +1,4 @@
-# 💫 About Me:
+#💫 About Me:
 - 👋 Hi, I’m @adityaverm-a<br>- 👀 I’m interested in Front-end Development!<br>- 🌱 I’m currently learning Golang<br>- 💞️ I’m looking to collaborate on Projects
 
 
