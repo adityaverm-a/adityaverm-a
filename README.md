@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>- 👋 Hi, I’m @adityaverm-a<br>- 👀 I’m interested in Front-end Development!<br>- 🌱 I’m currently learning Golang<br>- 💞️ I’m looking to collaborate on Projects
+<br>- 👋 Hi, I’m @adityaverm-a<br>- 👀 I’m interested in Full-Stack Development!<br>- 🌱 I’m currently learning Golang<br>- 💞️ I’m looking to collaborate on Projects
 
 
 
